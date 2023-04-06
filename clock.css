@@ -8,6 +8,7 @@
     text-align: center;
     min-height: 100vh;
     background-color: rgb(168, 173, 177);
+    background-image:url(https://cdn.wallpapersafari.com/28/98/pLrR6Y.jpg) ;
     /*background: linear-gradient(to right, red, yellow);*/
 }/*header{
     font: 'raleway', sans-serif;
@@ -20,7 +21,7 @@
         }*/
 
 .clock{
-    margin-left: 65%;
+    margin-left: 15%;
     top: 30px;
     position: relative;
     width: 280px;
